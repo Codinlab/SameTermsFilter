@@ -1,0 +1,11 @@
+﻿Name: SameTermsFilter
+AntiForgery: enabled
+Author: The Orchard Team
+Website: http://orchardproject.net
+Version: 1.1
+OrchardVersion: 1.8
+Description: Add Same Term Filter
+Category: Content
+Features:
+    Codinlab.SameTermsFilter:
+        Description: Add Same Term Filter to Projection queries.
