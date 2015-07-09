@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: The Orchard Team
 Website: http://orchardproject.net
 Version: 1.1
-OrchardVersion: 1.8
+OrchardVersion: 1.9
 Description: Add Same Term Filter
 Category: Content
 Features:
